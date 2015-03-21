@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Android Lib</string>
+    <string name="title_item_fileDownload">File Download</string>
+    <string name="download">File DownLoad</string>
+    <string name="otherDownload">Other Download</string>
+    <string name="action_settings">Settings</string>
+    <string name="edit_message">Enter Tel Number</string>
+    <string name="button_send">Dail</string>
+    <string name="title_activity_display_message">My Message</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_fragment_basic">FragmentBasic</string>
+    <string name="title_activity_sms">SMS</string>
+    <string name="send_msg">Send Short Message</string>
+    <string name="title_activity_calculator">Calculator</string>
+    <string name="input">Please input</string>
+    <string name="btnresult">=</string>
+    <string name="operator">X</string>
+    <string name="title_activity_cal_result">=</string>
+    <string name="item_about">About</string>
+    <string name="item_exit">Exit</string>
+    <string name="tv1">text view</string>
+    <string name="tv2">text view</string>
+    <string name="tv3">text view</string>
+    <string name="tv4">text view</string>
+    <string name="strmsg">some msg</string>
+    <string name="ht_ed1">please input</string>
+    <string name="btn_ok">OK</string>
+    <string name="btn_cancel">Cancel</string>
+    <string name="title_activity_layout_actv">MainActivity</string>
+    <string name="edittext1_hint_1">your name</string>
+    <string name="btn_progress">Click me</string>
+    <string name="female">female</string>
+    <string name="male">male</string>
+    <string name="swimming">swimming</string>
+    <string name="hacking">hacking</string>
+    <string name="running">running</string>
+    <string name="title_activity_list_view">ListViewActivity</string>
+    <string name="title_activity_handler">HandlerActivity</string>
+    <string name="start">Start</string>
+    <string name="end">End</string>
+    <string name="title_activity_update_progress">UpdateProgress</string>
+    <string name="load_progress">Load Progress</string>
+    <string name="just_demo">Show you a demo</string>
+    <string name="title_activity_handler2">Handler2Activity</string>
+    <string name="title_activity_smslistener">SMSListenerActivity</string>
+    <string name="button_register">Open BroadCast</string>
+    <string name="button_unregister">Close BroadCast</string>
+    <string name="title_activity_hf">HFActivity</string>
+    <string name="title_section1">Section 1</string>
+    <string name="title_section2">Section 2</string>
+    <string name="title_section3">Section 3</string>
+    <string name="title_activity_nasa_daily">NASA Daily Activity</string>
+    <string name="nasa_title">This is a nasaTitle</string>
+    <string name="nasa_desc">Here\'s some descriptions about this daily nasa news.</string>
+    <string name="image_desc">image descriptions</string>
+    <string name="btn_refresh">Refresh</string>
+    <string name="btn_setwallpaper">Set Wallpaper</string>
+    <string name="title_activity_weather">Current temperatory</string>
+    <string name="unknow">unknow</string>
+    <string name="wsd">Wind:</string>
+    <string name="temp">Temp:</string>
+    <string name="sd">Wet:</string>
+    <string name="temp_unit">℃</string>
+    <string name="curtime">Last update time:</string>
+    <string name="title_activity_xml">XMLActivity</string>
+    <string name="title_activity_file_down">FileDownActivity</string>
+    <string name="title_activity_oservices">OServicesActivity</string>
+    <string name="title_activity_im">In-time update</string>
+    <string name="title_activity_some">SomeActivity</string>
+    <string name="title_activity_test_main">TestMainActivity</string>
+
+</resources>
